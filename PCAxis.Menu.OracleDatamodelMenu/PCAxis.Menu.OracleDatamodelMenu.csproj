@@ -26,7 +26,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.280" />
-    <PackageReference Include="PCAxis.Menu" Version="1.0.4" />
+    <PackageReference Include="PCAxis.Menu" Version="1.0.5" />
   </ItemGroup>
 
   <ItemGroup>
